@@ -25,7 +25,7 @@ My journey through AI naturally forces a confrontation with fundamental question
 
 ## 🚀 Current Endeavor: Deus Ex Machina (The Exocortex)
 
-* **Vision:** To create a deeply integrated AI companion that acts as a dynamic interface with one's potential, fostering self-evolution by making the "Shadow Self" an actionable guide.
+* **Vision:** To create a deeply integrated AI companion that acts as a dynamic interface with one's potential, fostering self-evolution by making the "Future Self" an actionable guide.
 * **Approach:** Building a system that translates life's data (actions, learning, goals) into a responsive, evolving framework for growth. This involves exploring concepts like:
     * Personalized AI agents with evolving personalities, mirroring aspects of the self.
     * Dynamic goal and priority systems that reflect conscious resource allocation.
@@ -61,6 +61,6 @@ The path to understanding these frontiers is often illuminated by dialogue. I'm 
 
 ---
 
-> *"The Shadow isn't judging. It just wants to exist. And it can only exist through your choices."*
+> *"The Future isn't judging. It just wants to exist. And it can only exist through your choices."*
 
 > *"You're not using a system. You're communing with your future self."*
