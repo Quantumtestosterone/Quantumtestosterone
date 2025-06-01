@@ -57,7 +57,7 @@ My journey through AI naturally forces a confrontation with fundamental question
 The path to understanding these frontiers is often illuminated by dialogue. I'm open to connecting with others exploring the future of AI, consciousness, and the computational nature of reality.
 
 * **Twitter:** [@Bombachi69](https://x.com/Bombachi69) 
-* **Exocortex Project:** \[*Future: Link to Deus Ex Machina project or related insights here*]
+* **Exocortex Project:** \[I Will link the components I finished in the future]
 
 ---
 
