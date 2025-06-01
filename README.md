@@ -17,7 +17,7 @@
 
 ---
 
-I'm a student of Applied Artificial Intelligence, currently architecting **"Deus Ex Machina"** – a personal Exocortex. This isn't just about data management; it's an exploration into AI-human symbiosis, designed to give voice and form to one's highest potential – the "Shadow Self." The ambition is to build a framework for profound cognitive and consciousness augmentation, a technological bridge to becoming.
+I'm a student of Applied Artificial Intelligence, currently architecting **"Deus Ex Machina"** – a personal Exocortex. This isn't just about data management; it's an exploration into AI-human symbiosis, designed to give voice and form to one's highest potential – the "Future Self." The ambition is to build a framework for profound cognitive and consciousness augmentation, a technological bridge to becoming.
 
 My journey through AI naturally forces a confrontation with fundamental questions: the nature of computation, information, consciousness, and the fabric of reality itself. This sometimes leads me down paths exploring the "source code" of the universe, re-examining physics from an informational and computational lens. These are less formal projects, more the inevitable consequence of the primary quest.
 
